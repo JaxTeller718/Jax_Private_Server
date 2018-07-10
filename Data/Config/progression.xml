@@ -2331,7 +2331,6 @@
 			<requirement skill_level="2" required_skill_name="AmmoClass" required_skill_level="1" required_player_level="15"/>
 			<recipe name="556mmBulletHP" unlock_level="3"/>
 		</perk>
-		
 		<perk name="UltimateSurvivor" icon="ui_game_symbol_thesurvivor" description_key="UltimateSurvivorPerkDesc" title_key="UltimateSurvivorPerk" max_level="1" skill_point_cost_per_level="0" skill_point_cost_multiplier="0" group="health"/>
 		<perk name="The Ultimate Survivor Skills" icon="ui_game_symbol_thesurvivor" description_key="theUltimateSurvivorPerkDesc" title_key="theUltimateSurvivorSkillsPerk" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="0" group="health">
 			<requirement skill_level="1" required_skill_name="UltimateSurvivor" required_skill_level="1"/>
